@@ -1,0 +1,7 @@
+C:\Users\Gyurcsaklj\source\repos\gyurcsaklj\obj\Debug\gyurcsaklj.csproj.AssemblyReference.cache
+C:\Users\Gyurcsaklj\source\repos\gyurcsaklj\obj\Debug\gyurcsaklj.csproj.CoreCompileInputs.cache
+C:\Users\Gyurcsaklj\source\repos\gyurcsaklj\bin\Debug\gyurcsaklj.exe.config
+C:\Users\Gyurcsaklj\source\repos\gyurcsaklj\bin\Debug\gyurcsaklj.exe
+C:\Users\Gyurcsaklj\source\repos\gyurcsaklj\bin\Debug\gyurcsaklj.pdb
+C:\Users\Gyurcsaklj\source\repos\gyurcsaklj\obj\Debug\gyurcsaklj.exe
+C:\Users\Gyurcsaklj\source\repos\gyurcsaklj\obj\Debug\gyurcsaklj.pdb
